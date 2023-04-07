@@ -5,7 +5,7 @@ function TimeAndLocation() {
     <div>
       <div className="flex  text-center items-center justify-center my-6">
         <p className="text-white flex flex-col text-lg  sm:flex-row font-extralight">
-          <p>Tuesday 28 May 2023 </p> <p>15 :30 PM </p>
+          <p>Tuesday 28 May 2023 </p> <p className="ml-3"> 15 :30 PM </p>
         </p>
       </div>
 
